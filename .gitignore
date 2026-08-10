@@ -1,0 +1,8 @@
+# Temporary files
+*.tmp
+
+# Temporary directory
+tmp/
+
+# Database files
+*.db
