@@ -1,8 +1,5 @@
 módulo para la lógica de negocio
-# SI usuario.rol == "ADMIN" ENTONCES
-# PERMITIR_ACCESO()
-# FIN SI
-
-# SI compras_realizadas > 10 ENTONCES
-# descuento = total * 0.10
+# SI hora_llegada > hora_limite ENTONCES
+# estado_asistencia = "TARDE"
+# SINO estado_asistencia = "PRESENTE"
 # FIN SI
