@@ -1,1 +1,8 @@
 módulo para la lógica de negocio
+# SI usuario.rol == "ADMIN" ENTONCES
+# PERMITIR_ACCESO()
+# FIN SI
+
+# SI compras_realizadas > 10 ENTONCES
+# descuento = total * 0.10
+# FIN SI
