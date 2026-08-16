@@ -1,0 +1,5 @@
+módulo para la lógica de negocio
+# SI hora_llegada > hora_limite ENTONCES
+# estado_asistencia = "TARDE"
+# SINO estado_asistencia = "PRESENTE"
+# FIN SI
